@@ -1,2 +1,1 @@
-# rebuild
-A rebuild of reddit using JS
+# Chocolate Connections Site
